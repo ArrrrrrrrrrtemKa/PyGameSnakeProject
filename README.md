@@ -1,0 +1,2 @@
+# PyGameSnakeProject
+Speshial to YandexLiceum
